@@ -75,7 +75,7 @@ HELP_5 = """✅<u>**Extra  Commands:**</u>
 
 /seekback or /cseekback - Backward Seek the music to your duration
 
-/massom - check who is massom
+/love - check who is loveguru
 
 /repo - for repo
 
@@ -109,7 +109,7 @@ ForcePlay Commands = playforce , mistyforce vplayforce , cplayforce
 **v** stands for video play.
 **force** stands for force play.
 
-/play or /khuni or /villan or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
+/play or /love or /massom or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
 
 /playforce or /force or /vplayforce or /cplayforce -  **Force Play** stops the current playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.
 
