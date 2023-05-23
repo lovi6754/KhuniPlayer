@@ -1,13 +1,13 @@
-### Powered By @massomop
+### Powered By @loveguru
 
-### Join @innocentpapabolte For More Update
+### Join @loveguruo For More Update
 
-### Join @about_meeBacha For Sayri
+### Join @loveguruoo For Sayri
 
 ### Join Our Chats @innocentop 
 
 
-### Powered By [@massomop](https://t.me/massomop)
+### Powered By [@loveguru](https://t.me/loveguruo)
 
 
 ### ABOUT THIS BOT
@@ -24,11 +24,11 @@
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[massomop](https://t.me/massomop)
+[loveguru](https://t.me/loveguruo)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lovingfriendsforever)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/innocentop)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/innocentop)
 
