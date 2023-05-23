@@ -1,13 +1,13 @@
-### Powered By @MrKhunii 
+### Powered By @massomop
 
-### Join @Khuni_X_Villan_Server For More Update
+### Join @innocentpapabolte For More Update
 
-### Join @Dil_se_dil_tak_01 For Sayri
+### Join @about_meeBacha For Sayri
 
-### Join Our Chats @lovingfriendsforever 
+### Join Our Chats @innocentop 
 
 
-### Powered By [@MrKhunii](https://t.me/MrKhunii)
+### Powered By [@massomop](https://t.me/massomop)
 
 
 ### ABOUT THIS BOT
@@ -24,13 +24,13 @@
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[Khuni](https://t.me/MrKhunii)
+[massomop](https://t.me/massomop)
 
 ## Telegram 🏪
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lovingfriendsforever)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Dil_se_dil_tak_01)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/innocentop)
 
 
 
@@ -52,7 +52,7 @@
 4) nvm install node
 
 5. Clone the Repository :
-git clone https://github.com/KhuniVillan/KhuniPlayer &&  cd KhuniPlayer
+git clone https://github.com/lovi6754/KhuniPlayer &&  cd KhuniPlayer
 
 6. Install Installer : 
 pip3 install -r Installer
@@ -70,10 +70,10 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![MrKhunii](https://graph.org/file/a1485c66e31dfeb995bf6.jpg)](https://t.me/MrKhunii)
+[![massomop](https://graph.org/file/a1485c66e31dfeb995bf6.jpg)](https://t.me/massomop)
 
 
-#### Main Developer = [MrKhunii](https://t.me/MrKhunii)
+#### Main Developer = [massom](https://t.me/massomop)
 
 ## 💕 Special Thanks
 
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [MrKhunii](https://t.me/MrKhunii) 
+## 🥀 Powered By [Massom](https://t.me/massomop) 
