@@ -15,14 +15,14 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "❰𝗞𝗵𝘂𝗻𝗶 𝗫 𝗠𝘂𝘀𝗶𝗰❱")
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5230338052").split()))
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "❰𝗟𝗼𝘃𝗲𝗴𝘂𝗿𝘂 𝗫 𝗠𝘂𝘀𝗶𝗰❱")
+OWNER_ID = list(map(int, getenv("OWNER_ID", "5621275341").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/lovi6754/KhuniPlayer")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "lovi6754-patch-3")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/about_meeBacha")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/loveguruoo")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/innocentop")
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "1800000"))
@@ -68,8 +68,8 @@ clean = {}
 autoclean = []
 ############################
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/eb4ef2b76f14db4a401b2.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://te.legra.ph/file/0f1cd7e15ba2df06a3cfc.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/00edd59f4b9f231231108.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/f29396af160a0b94818e4.jpg")
 
 PLAYLIST_IMG_URL = "https://graph.org/file/185978d3d6c2beff97073.jpg"
 GLOBAL_IMG_URL = "https://graph.org/file/a1485c66e31dfeb995bf6.jpg"
@@ -107,9 +107,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "resources/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://te.legra.ph/file/0f1cd7e15ba2df06a3cfc.jpg"
+            PING_IMG_URL = "https://telegra.ph/file/f29396af160a0b94818e4.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "resources/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://te.legra.ph/file/eb4ef2b76f14db4a401b2.jpg"
+            START_IMG_URL = "https://telegra.ph/file/00edd59f4b9f231231108.jpg"
