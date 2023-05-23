@@ -34,12 +34,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩𝗞𝗵𝘂𝗻𝗶 𝗫 𝗠𝘂𝘀𝗶𝗰𓆪💫⃟👑 ",
+        "value": "🌟⃝🌸𓆩𝗟𝗼𝘃𝗲𝗹𝘆 𝗫 𝗠𝘂𝘀𝗶𝗰𓆪💫⃟👑 ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5230338052",
+        "value": "5621275341",
         "required": true
       },
       "SUPPORT_GROUP": {
@@ -49,7 +49,7 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Input Your Support Channel full link ",
-        "value": "https://t.me/about_meeBacha",
+        "value": "https://t.me/loveguruoo",
         "required": true
       },
       "STRING_SESSION": {
