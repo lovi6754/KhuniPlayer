@@ -1,7 +1,7 @@
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Updates
-# Join @AdityaCheats For Hacks
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @massomop & @innocentpapabolte 
+# Join @innocentop For More Updates
+# Join @innocentop For Hacks
+# Join Our Chats @massomop & @innocentpapabolte
 
 import asyncio
 import time
