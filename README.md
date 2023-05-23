@@ -70,7 +70,7 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![massomop](https://graph.org/file/a1485c66e31dfeb995bf6.jpg)](https://t.me/massomop)
+[![massomop](https://te.legra.ph/file/eb4ef2b76f14db4a401b2.jpg)](https://t.me/massomop)
 
 
 #### Main Developer = [massom](https://t.me/massomop)
