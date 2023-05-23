@@ -1,7 +1,7 @@
 # Powered By @massomop & @loveguruo
 # Join @massomop For More Update
 # Join @innocentop For Hack
-# Join Our Chats @innocentop & @innocentpapabolte 
+# Join Our Chats @innocentop & @loveguruo
 
 
 # Commands in Every Language
@@ -18,7 +18,7 @@ LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
 PLAY_COMMAND : ["play", "massom", "love", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
-PLAYMODE_COMMAND : ["playmode", "massommode"]
+PLAYMODE_COMMAND : ["playmode", "lovimode"]
 CHANNELPLAY_COMMAND : ["channelplay"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce"]
 
@@ -51,9 +51,9 @@ RESTART_COMMAND : ["restart", ".reset", "gpreboot"]
 # Sudo Users Commaands
 
 # Sudo Command
-ADDSUDO_COMMAND : ["addsudo", "adbk", "admassom"]
-DELSUDO_COMMAND : ["delsudo", "delbk", "delkhuni"]
-SUDOUSERS_COMMAND : ["sudolist", "bklist", "massomlist"]
+ADDSUDO_COMMAND : ["addsudo", "adbk", "adlovi"]
+DELSUDO_COMMAND : ["delsudo", "delbk", "dellovi"]
+SUDOUSERS_COMMAND : ["sudolist", "bklist", "lovilist"]
 
 #Broadcast 
 BROADCAST_COMMAND : ["broadcast", "bcast", "gcast"]
@@ -112,4 +112,4 @@ GBANNED_COMMAND : ["gbannedusers"]
 # Powered By @massomop & @loveguruo  
 # Join @innocentop For More Update
 # Join @innocentop For Hack
-# Join Our Chats @massomop & @innocentpapabolte 
+# Join Our Chats @massomop & @loveguruoo
