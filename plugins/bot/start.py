@@ -1,7 +1,7 @@
-# Powered By @massomop & @innocentpapabolte 
+# Powered By @loveguruoo & @loveguruo
 # Join @innocentop For More Updates
 # Join @innocentop For Hacks
-# Join Our Chats @massomop & @innocentpapabolte
+# Join Our Chats @massomop & loveguruo
 
 import asyncio
 import time
