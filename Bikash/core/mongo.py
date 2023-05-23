@@ -1,4 +1,4 @@
-# Powered By @massomop @innocentpapabolte
+# Powered By @loveguruo
 
 from motor.motor_asyncio import AsyncIOMotorClient as _mongo_client_
 from pymongo import MongoClient
