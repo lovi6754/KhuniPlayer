@@ -14,22 +14,22 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "28394360",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "8203602c945afe1bac48b9d430c7d721",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Put Your Bot token from Botfather",
-        "value": "",
+        "value": "5994959333:AAE5Pj-KrvGiOja8BtYhE6zMnw0mvjGX-_8",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com. Below MONGOdb only for Test Don't Use Otherwise Your Bot Hack By Any Hacker",
-        "value": "",
+        "value": "mongodb+srv://Devarora0987:#Dev12345@cluster0.razivtc.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -69,7 +69,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights !",
-        "value": "",
+        "value": "-1001622908002",
         "required": true
       }
     },
