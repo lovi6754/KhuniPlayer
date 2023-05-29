@@ -23,7 +23,7 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/lovi6754/KhuniPlayer
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "lovi6754-patch-3")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/loveguruoo")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/innocentop")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/ll_ll_ROYAL_WORLD_ll_ll")
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "1800000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "18000000"))
@@ -54,7 +54,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 ############################
 COMMAND_PREFIXES.append('')
-OWNER_ID.append(5230338052)
+OWNER_ID.append(5621275341)
 ############################
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
