@@ -11,7 +11,7 @@ from Bikash.config import UPSTREAM_REPO, UPSTREAM_BRANCH, GIT_TOKEN, OWNER_ID
 from Bikash import app
 
 if GIT_TOKEN:
-     UPSTREAM_REPO = 'https://github.com/lovi6754/khunimusic'
+     UPSTREAM_REPO = 'https://github.com/lovi6754/KhuniPlayer'
 else:
      UPSTREAM_REPO = UPSTREAM_REPO
 
