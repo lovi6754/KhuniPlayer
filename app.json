@@ -1,5 +1,5 @@
 {
-    "name": "Khuni X Music",
+    "name": "Lovi X Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/185978d3d6c2beff97073.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩𝗞𝗵𝘂𝗻𝗶 𝗫 𝗠𝘂𝘀𝗶𝗰𓆪💫⃟👑 ",
+        "value": "🌟⃝🌸𓆩𝗟𝗼𝘃𝗶 𝗫 𝗠𝘂𝘀𝗶𝗰𓆪💫⃟👑 ",
         "required": true
       },
       "OWNER_ID": {
