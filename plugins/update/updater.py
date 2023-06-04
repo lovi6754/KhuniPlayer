@@ -11,7 +11,7 @@ from Bikash.config import UPSTREAM_REPO, UPSTREAM_BRANCH, GIT_TOKEN, OWNER_ID
 from Bikash import app
 
 if GIT_TOKEN:
-     UPSTREAM_REPO = 'https://github.com/BikashHalderNew/Bgtplayer'
+     UPSTREAM_REPO = 'https://github.com/lovi6754/khunimusic'
 else:
      UPSTREAM_REPO = UPSTREAM_REPO
 
@@ -59,7 +59,7 @@ async def update_bot(_, message: Message):
     chat_id = message.chat.id
     msg = await message.reply_text("**🥀 𝐂𝐡𝐞𝐜𝐤𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ✨ ...**")
     update_avail = updater()
-    os.system("git config --global user.name 'Kaal-xD'")
+    os.system("git config --global user.name 'Loveguru'")
     os.system("git config --global user.email 'kaalnewtube@gmail.com'")
     # os.system("git config --global credential.helper store")
     # os.system("echo 'https://{GIT_NAME}:{GIT_TOKEN}@github.com' > ~/.git-credentials")
