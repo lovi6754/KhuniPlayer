@@ -43,8 +43,8 @@
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Input Your Support Group with Full Link like https://t.me/lovingfriendsforever",
-        "value": "https://t.me/lovingfriendsforever",
+        "description": "Input Your Support Group with Full Link like https://t.me/innocentop",
+        "value": "https://t.me/innocentop",
         "required": true
       },
       "SUPPORT_CHANNEL": {
